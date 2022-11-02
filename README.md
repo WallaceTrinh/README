@@ -5,21 +5,18 @@
 I'm currently enrolled in the BCIT's Computer Systems and Technology Diploma Program. I have worked as a Executive Sous Chef at a Asian Fusion Restaurant where I lead a successful team. As we were able to reach Vancouver's Top 10 Restaurants as of 2020 on Tripadvisor from Rank 650 in 2017). I have obtained my Red Seal Level 2 Certification in Cooking. Moved on to coding after 10 years in the restaurant industry.
 </details>
 ### 🖥️Technologies
-<details>
 - Worked with programming languages such as Python, Java, and C
 - Front-end languages of HTML, CSS and JavaScript
 - Worked on a couple of team projects in my given studies
-</details>
+
 ### 💡Learning and Improving:
-<details>
 - Python, Java, C, HTML, CSS, Javascript, MongoDB and MySQL
 - Front-End and Back-End Developments
-</details>
+
 ### 🤔Interests:
-<details>
 - Game Development
 - Linux and Systems Administration
-</details>
+
 <h3>Things I Coded With:</h3>
 <p>
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
