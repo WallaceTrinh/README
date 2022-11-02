@@ -3,6 +3,7 @@
 ### 👤About Me
 
 <details>
+  <summary>Expand</summary>
 I'm currently enrolled in the BCIT's Computer Systems and Technology Diploma Program. I have worked as a Executive Sous Chef at a Asian Fusion Restaurant where I lead a successful team. As we were able to reach Vancouver's Top 10 Restaurants as of 2020 on Tripadvisor from Rank 650 in 2017). I have obtained my Red Seal Level 2 Certification in Cooking. Moved on to coding after 10 years in the restaurant industry.
 </details>
 
