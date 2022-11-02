@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;BCIT CST Student)](https://git.io/typing-svg)
 <h1>Hello! I'm Wallace.<h1>
 
 ### 👤About Me
@@ -19,7 +20,7 @@ I used to be a Executive Sous Chef at a Asian Fusion Restaurant where I lead a s
 - Game Development
 - Linux and Systems Administration
 
-<h3>Things I Coded With</h3>
+<h3>Things I Coded With:</h3>
 <p>
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
