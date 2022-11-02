@@ -31,7 +31,7 @@ I'm currently enrolled in the BCIT's Computer Systems and Technology Diploma Pro
 
 ### Stats
 
-  <img align="left" alt="Wallace's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WallaceTrinh&show_icons=true&hide_border=false&title_color=fg922f&icon_color=CCD700&bg_color=01132c&text_color=ffffff&border_color=0c2b15" /><br>
+  <img align="left" alt="Wallace's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WallaceTrinh&show_icons=true&hide_border=false&title_color=gg922f&icon_color=CCD700&bg_color=01132c&text_color=ffffff&border_color=0c2b15" /><br>
 
 <div align='left'>
 <img src="https://github.com/WallaceTrinh/WallaceTrinh/blob/main/gif.gif?raw=true" href="https://github.com/WallaceTrinh" width="20%"/><br> 
