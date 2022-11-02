@@ -33,6 +33,6 @@ I'm currently enrolled in the BCIT's Computer Systems and Technology Diploma Pro
 
 <div align='center'>
 
-(gif.gif)
+!(gif.gif)
 
 </div>
