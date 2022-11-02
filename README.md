@@ -32,5 +32,5 @@ I'm currently enrolled in the BCIT's Computer Systems and Technology Diploma Pro
 </div>
 
 <div align='center'>
-<img src="WallaceTrinh/WallaceTrinh/raw/master/gif.gif" style="max-wdith:100% display:inline-block;" data-target="animated-image.originalImage">
+<img src="/WallaceTrinh/WallaceTrinh/raw/master/gif.gif" style="max-wdith:100% display:inline-block;" data-target="animated-image.originalImage">
 </div>
