@@ -18,5 +18,3 @@ I used to be a Executive Sous Chef at a Asian Fusion Restaurant where I lead a s
 ### 🤔Interests:
 - Game Development
 - Linux and Systems Administration
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceTrinh&hide=html,css&theme=radical&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
