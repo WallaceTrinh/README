@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;BCIT CST Student)](https://git.io/typing-svg)
 <h1>Hello! I'm Wallace.<h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=700&color=5FF73B&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Wallace.;Currently+a+BCIT+CST+Student.)](https://git.io/typing-svg)
 ### 👤About Me
 
 I used to be a Executive Sous Chef at a Asian Fusion Restaurant where I lead a successful team. As we were able to reach Vancouver's Top Ten Restaurants as of 2020 on Tripadvisor from Rank 650 in 2017). I have obtained my Red Seal Level 2 Certification in Cooking. I have now moved on after over 10 years in the restaurant industry and currently a student at BCIT's Computer Systems and Technology Diploma Program.
