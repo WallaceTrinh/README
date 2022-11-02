@@ -29,7 +29,11 @@ I'm currently enrolled in the BCIT's Computer Systems and Technology Diploma Pro
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WallaceTrinh&show_icons=true&locale=en&layout=compact" alt="WallaceTrinh" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=WallaceTrinh&show_icons=true&locale=en" alt="WallaceTrinh" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=WallaceTrinh&" alt="WallaceTrinh" /></p>
 
 <div align='left'>
 <img src="https://github.com/WallaceTrinh/WallaceTrinh/blob/main/gif.gif?raw=true" href="https://github.com/WallaceTrinh" width="20%"/><br> 
