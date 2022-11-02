@@ -12,11 +12,11 @@ I'm currently enrolled in the BCIT's Computer Systems and Technology Diploma Pro
 - Front-end languages of HTML, CSS and JavaScript
 - Worked on a couple of team projects in my given studies
 
-### 💡Learning and Improving:
+### 💡 Learning and Improving:
 - Python, Java, C, HTML, CSS, Javascript, MongoDB and MySQL
 - Front-End and Back-End Developments
 
-### 🤔Interests:
+### 🤔 Interests:
 - Game Development
 - Linux and Systems Administration
 
