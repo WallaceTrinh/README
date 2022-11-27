@@ -3,9 +3,9 @@
 ### 👤About Me
 
 <details>
-  <summary>Click Me!</summary>
-📙I'm currently enrolled in the BCIT's Computer Systems and Technology Diploma Program. 
-👨‍🍳Prior to programming, I was an Executive Sous Chef.
+<summary>Click Me!</summary>
+-📙I'm currently enrolled in the BCIT's Computer Systems and Technology Diploma Program. 
+-👨‍🍳Prior to programming, I was an Executive Sous Chef.
 </details>
 
 ### 🖥️ Technologies
