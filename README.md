@@ -1,4 +1,4 @@
-[![MasterHead](./main/NameBanner.gif)]
+<img src="https://github.com/WallaceTrinh/WallaceTrinh/blob/main/NameBanner.gif?raw=true" href="https://github.com/WallaceTrinh" width="100%"/><br> 
 
 ### 👤About Me
 - 📙I'm currently enrolled in the BCIT's Computer Systems and Technology Diploma Program. 
