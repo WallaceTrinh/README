@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=5FF73B&background=FFFFFF00&vCenter=true&width=435&lines=Hello%2C+I'm+Wallace+Trinh.;Currently+a+BCIT+CST+Student.)](https://git.io/typing-svg)
+[![MasterHead](./main/NameBanner.gif)]
 
 ### 👤About Me
 - 📙I'm currently enrolled in the BCIT's Computer Systems and Technology Diploma Program. 
