@@ -6,12 +6,13 @@
 
 
 ### 🖥️ Technologies
-- Worked with programming languages such as Python, Java, and C
-- Front-end languages of HTML, CSS and JavaScript
+- Worked with programming languages such as Python, Java, C, C++ and Kotlin
+- Front-end languages of HTML, CSS, and JavaScript
+- Data Communications such as Server and Client based network communications
 - Worked on a couple of team projects in my given studies
 
 ### 💡 Learning and Improving:
-- Python, Java, C, HTML, CSS, Javascript, MongoDB and MySQL
+- Python, Java, C, C++, Kotlin, HTML, CSS, Javascript, MongoDB and MySQL
 - Front-End and Back-End Developments
 
 ### 🤔 Interests:
