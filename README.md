@@ -1,7 +1,7 @@
 <img src="https://github.com/WallaceTrinh/WallaceTrinh/blob/main/NameBanner.gif?raw=true" href="https://github.com/WallaceTrinh" width="100%"/><br> 
 
-### LinkedIn
-[Connect with me on LinkedIn](https://www.linkedin.com/in/wallace-trinh-0a192714b/)
+### 🤝LinkedIn
+[My LinkedIn](https://www.linkedin.com/in/wallace-trinh-0a192714b/)
 
 ### 👤About Me
 - 📙I'm currently enrolled in the BCIT's Computer Systems and Technology Diploma Program. 
