@@ -22,7 +22,7 @@
 - Game Development
 - Linux and Systems Administration
 
-<h3>Things I Coded With:</h3>
+<h3>Languages and Tech Stacked I Worked With:</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
