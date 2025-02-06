@@ -4,7 +4,7 @@
 - [My LinkedIn](https://www.linkedin.com/in/wallace-trinh-0a192714b/)
 
 ### 👤About Me
-- 📙I'm currently enrolled in the BCIT's Computer Systems and Technology Diploma Program. 
+- 📙Graduated from BCIT's Computer Systems and Technology Diploma Program. 
 - 👨‍🍳Prior to programming, I was an Executive Sous Chef.
 
 
@@ -15,7 +15,7 @@
 - Worked on a couple of team projects in my given studies
 
 ### 💡 Learning and Improving:
-- Python, Java, C, C++, Kotlin, HTML, CSS, Javascript, MongoDB and MySQL
+- Python, Java, C, C++, Kotlin, HTML, CSS, Javascript, MongoDB, noSQL and MySQL
 - Front-End and Back-End Developments
 
 ### 🤔 Interests:
